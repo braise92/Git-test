@@ -1,5 +1,5 @@
 #include <iostream>
-
+#include "fonction.h"
 using namespace std;
 
 int main()
@@ -8,3 +8,4 @@ int main()
     cout <<"changement";
     return 0;
 }
+void hello();
