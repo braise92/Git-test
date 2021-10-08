@@ -2,3 +2,4 @@ bin/
 obj/
 test.cbp
 test.depend
+test.layout
